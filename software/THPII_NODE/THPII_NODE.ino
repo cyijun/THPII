@@ -4,9 +4,6 @@
  * @brief Please complete the location of node and wifi auth information b4 uploading
  * @version 0.1
  * @date 2021-07-20
- * 
- * @copyright Copyright (c) 2021
- * 
  */
 
 #include <Wire.h>
